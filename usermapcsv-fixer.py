@@ -7,10 +7,6 @@ import re
 import os
 from dotenv import load_dotenv
 
-# REPLACE userdata_location with the path to Essentials userdata directory
-# REPLACE npc_location with the path to the Essentials NPC dump directory
-# REPLACE usermap_file with path to usermap.csv
-
 load_dotenv()
 userdata_location = os.getenv('USERDATA_LOCATION')
 npc_location = os.getenv('NPC_OUTPUT_LOCATION')

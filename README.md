@@ -5,7 +5,7 @@ Upon removing these YML files with a simple bash script, we noticed Essentials r
 
 ### EXAMPLE
 
-In the files/ directory in this repository, you can see a fake usermap.csv file, userdata directory and the output which this script generated.  
+In the examples/ directory in this repository, you can see a fake usermap.csv file, userdata directory and the output which this script generated.  
 You can use this to check if you are experiencing the same issue, and if this script will help you.  
 
 ### How to use
