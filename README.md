@@ -8,7 +8,7 @@ Upon removing these YML files with a simple bash script, we noticed Essentials r
 In the examples/ directory in this repository, you can see a fake usermap.csv file, userdata directory and the output which this script generated.  
 You can use this to check if you are experiencing the same issue, and if this script will help you.  
 
-### How to use
+### HOW TO USE
 
 Modify the .env file in this directory and add change the values to the proper locations for your setup. Then run the script! This can take a while, so I recommend running it in a program like tmux.  
 
