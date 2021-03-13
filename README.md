@@ -10,6 +10,7 @@ You can use this to check if you are experiencing the same issue, and if this sc
 
 ### HOW TO USE
 
+Run `pip install -r requirements.txt` before continuing.  
 Modify the .env file in this directory and add change the values to the proper locations for your setup. Then run the script! This can take a while, so I recommend running it in a program like tmux.  
 
 ### DISCLAIMERS
